@@ -1,0 +1,158 @@
+,Places,Population.Density,population,incomLev
+1,Alhambra,11275,85961,2
+2,Arcadia,4749,52951,2
+3,Beverly Hills,5933,33829,2
+4,Boyle Heights,14229,92756,1
+5,Carson,4676,89549,2
+6,Culver City,7475,38816,2
+7,Diamond Bar,3754,56784,2
+8,Encino,4411,41905,2
+9,Gardena,9894,57818,2
+10,Glendale,6368,195047,2
+11,Glendora,2568,50177,2
+12,Granada Hills,3344,50535,2
+13,Inglewood,12330,112482,2
+14,Koreatown,42611,115070,1
+15,La Mirada,5966,46782,2
+16,Lancaster,1180,120783,2
+17,Manhattan Beach,8573,34039,2
+18,Melrose,13893,31138,2
+19,Northridge,6080,57561,2
+20,Pasadena,5366,134941,2
+21,San Dimas,2244,35064,2
+22,San Pedro,6640,80065,2
+23,Santa Monica,9817,84084,2
+24,Sherman Oaks,6687,61166,2
+25,Silverlake,11266,30972,2
+26,South Pasadena,7114,24303,2
+27,Tarzana,4038,35502,2
+28,Torrance,6701,137933,2
+29,Venice,11891,37705,2
+30,West Adams,14686,21764,1
+31,West Hills,4551,38814,2
+32,West Hollywood,18924,35716,2
+33,West Vernon,18,94,2
+34,Westchester,3839,41500,2
+35,Altadena,4900,42680,2
+36,Baldwin Hills,10446,30123,1
+37,Brentwood,2059,31344,2
+38,Eagle Rock,7644,32493,2
+39,Lynwood,14264,69899,2
+40,Mar Vista,12259,35492,2
+41,Monterey Park,7823,59933,2
+42,North Hollywood,13264,77848,1
+43,Santa Clarita,2745,157447,2
+44,Woodland Hills,4040,59661,2
+45,Hollywood,22193,77818,1
+46,Hollywood Hills,3063,21588,2
+47,Sylmar,5579,69499,2
+48,Walnut,3329,30004,2
+49,Beverlywood,7654,6080,2
+50,Burbank,5785,100316,2
+51,Calabasas,1247,23130,2
+52,Castaic,3076,16843,2
+53,Century City,7869,5513,2
+54,Covina,6701,50954,2
+55,Crestview,15343,5284,2
+56,East Los Angeles,16863,125897,1
+57,Echo Park,16868,40455,1
+58,Hancock Park,6459,9804,2
+59,Hawthorne,13848,86265,1
+60,Lawndale,16119,31729,2
+61,Lomita,10424,19984,2
+62,Palms,21870,42545,2
+63,Park La Brea,21446,150898,2
+64,Playa Vista,1859,2416,2
+65,Reseda,10600,62174,2
+66,Stevenson Ranch,2765,8609,2
+67,Studio City,5395,34034,2
+68,Tujunga,2649,26527,2
+69,University Park,20217,23596,1
+70,Valley Glen,12325,59230,2
+71,Van Nuys,11542,103770,1
+72,Vermont Knolls,18057,20616,1
+73,Westwood,13036,47916,2
+74,Whittier,5688,83838,2
+75,Downtown,4770,27849,1
+76,El Segundo,2925,15970,2
+77,Lake Balboa,7754,24238,2
+78,Lakewood,8348,79412,2
+79,Miracle Mile,10368,7295,2
+80,Redondo Beach,10129,63261,2
+81,San Fernando,9856,23534,2
+82,South Whittier,10291,55285,2
+83,Winnetka,9826,46943,2
+84,Cerritos,5851,51831,2
+85,Del Rey,11420,28010,2
+86,La Canada Flintridge,2342,20009,2
+87,La Verne,3863,33117,2
+88,Montebello,7329,61960,2
+89,Sun Valley,8048,75848,2
+90,Sunland,3825,15316,2
+91,Vermont Vista,14154,23291,1
+92,Vernon Central,18,94,2
+93,West Covina,6509,104893,2
+94,Westlake,38214,103839,1
+95,Bellflower,11756,72829,2
+96,Canoga Park,12240,53227,2
+97,East Hollywood,31095,73967,1
+98,Los Feliz,13512,35238,2
+99,Paramount,11395,55319,2
+100,Rancho Palos Verdes,3084,41301,2
+101,South Gate,12945,96418,2
+102,Temple City,8366,33296,2
+103,Wilmington,5636,51517,1
+104,Agoura Hills,2495,20324,2
+105,Cloverdale/Cochran,2708,6817,1
+106,Compton,9199,94384,1
+107,Duarte,3212,21486,2
+108,Exposition Park,16819,31062,1
+109,Hyde Park,12700,36635,1
+110,Lincoln Heights,10602,26616,1
+111,Palmdale,874,117432,2
+112,South Park,21638,30496,1
+113,Wilshire Center,39080,151328,1
+114,Canyon Country,4,25899,2
+115,Downey,8566,107323,2
+116,Harbor Gateway,7720,39688,2
+117,Harvard Heights,23473,18587,1
+118,Highland Park,16835,57566,2
+119,La Puente,11761,41009,2
+120,Mt. Washington,6878,12728,2
+121,Norwalk,10572,103223,2
+122,Pico Rivera,7187,63151,2
+123,Porter Ranch,4462,24923,2
+124,San Gabriel,9433,39306,2
+125,Wholesale District,3242,7245,1
+126,Willowbrook,9117,34336,1
+127,Arleta,10034,31068,2
+128,Bell Gardens,17762,44054,1
+129,Panorama City,18028,65766,1
+130,Pomona,6556,150269,2
+131,Valinda,10748,21568,2
+132,Watts,17346,36815,1
+133,Azusa,4496,44384,2
+134,Bell,14357,36667,1
+135,Chatsworth,2301,35073,2
+136,Glassell Park,8524,23467,2
+137,Hacienda Heights,4503,53525,2
+138,Harbor City,9127,23561,2
+139,Leimert Park,9880,11782,2
+140,Maywood,23638,28083,1
+141,Monrovia,2643,36817,2
+142,North Hills,10003,53095,2
+143,Pacoima,10510,75014,2
+144,Central,4770,27849,1
+145,Claremont,2124,35397,2
+146,Harvard Park,16072,10297,1
+147,Rowland Heights,3604,47524,2
+148,El Sereno,9826,40954,2
+149,Huntington Park,20223,61370,1
+150,Rosemead,10332,53280,2
+151,El Monte,11995,116249,1
+152,Baldwin Park,11176,75753,2
+153,Acton,166,6522,2
+154,Lake Los Angeles,1601,11141,2
+155,South El Monte,7150,20935,2
+156,Bassett,6109,23599,2
+157,Avalon,1159,3181,2
