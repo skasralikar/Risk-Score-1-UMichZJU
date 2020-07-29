@@ -29,24 +29,5 @@ In command line,
 jupyter nbconvert --execute Data_Sourcing_and Solution_02.ipynb
 ```
 
-**Option 3 (run in environment):** 
-
-Clone this repository from github. In the cloned repository, 
-```
-conda env create -f environment.yml
-```
-Switch to the new environment:
-```
-conda activate rmds-riskscore1
-```
-Check that the environment was properly activated:
-```
-conda info
-```
-The first line should show:
-```
-active environment: rmds-riskscore1
-```
-
 ## Workflow
 ![workflow](https://github.com/skasralikar/Risk-Score-1-UMichZJU/blob/master/Risk-Score-UMich-Workflow.png)
