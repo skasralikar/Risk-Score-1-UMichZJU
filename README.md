@@ -27,6 +27,7 @@ jupyter nbconvert --execute Data_Sourcing_and Solution_02.ipynb
 ```
 
 **Option 3 (run in environment):** 
+
 Clone this repository from github. In the cloned repository, 
 ```
 conda env create -f environment.yml
