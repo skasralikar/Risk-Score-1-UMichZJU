@@ -13,9 +13,12 @@ Have [anaconda](https://www.anaconda.com/products/individual) or miniconda insta
 
 **Option 1 (if running locally):**
 
-Clone this repository from github. Open jupyter notebook and navigate to this cloned repository.
+Clone this repository from github. Open jupyter notebook by running,
+```
+jupyter notebook
+```
 
-Open script: Data_Sourcing_and Solution_02.ipynb. Run script.
+Navigate to repository within jupyter notebook. Open script: Data_Sourcing_and Solution_02.ipynb. Run script.
 
 **Option 2 (run notebook from command line):**
 
