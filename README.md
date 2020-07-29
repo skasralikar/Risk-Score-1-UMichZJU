@@ -12,11 +12,13 @@
 Have [anaconda](https://www.anaconda.com/products/individual) or miniconda installed. This will automatically install jupyter notebook and other required packages.
 
 **Option 1 (if running locally):**
+
 Clone this repository from github. Open jupyter notebook and navigate to this cloned repository.
 
 Open script: Data_Sourcing_and Solution_02.ipynb. Run script.
 
 **Option 2 (run notebook from command line):**
+
 Have [nbconvert](https://github.com/jupyter/nbconver) installed. 
 
 In command line,
