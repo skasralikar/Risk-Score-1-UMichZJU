@@ -2,11 +2,12 @@
 
 #RMDS Risk Score Project (UMichZJU)
 
-#Open source project in collaboration with University of Michigan, ZJU Team. Link to their project found [here](https://grmds.org/node/744).
-
 *Shravani Kasralikar, Wanying Shao, Victor Qiu 28/07/2020*
 
 *Project Manager: Alicia Wei*
+
+*Open source project in collaboration with University of Michigan, ZJU Team. Link to their project found [here](https://grmds.org/node/744).*
+
 
 
 ## Setup
