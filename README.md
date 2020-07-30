@@ -6,6 +6,9 @@
 
 *Project Manager: Alicia Wei*
 
+*Open source project in collaboration with University of Michigan, ZJU Team. Link to their project found [here](https://grmds.org/node/744).*
+
+
 
 ## Setup
 
@@ -26,7 +29,7 @@ Have [nbconvert](https://github.com/jupyter/nbconver) installed.
 
 In command line,
 ```
-jupyter nbconvert --execute Data_Sourcing_and Solution_02.ipynb
+jupyter nbconvert --execute Data_Sourcing_and_Solution.ipynb
 ```
 
 ## Workflow
