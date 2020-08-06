@@ -38,7 +38,20 @@ jupyter nbconvert --execute Data_Sourcing_and_Solution.ipynb
 
 ## Output
 
-Output file: **LA_daily_out.csv**
+**Output file:** [LA_daily_out.csv](https://github.com/skasralikar/Risk-Score-1-UMichZJU/blob/master/data/output/LA_daily_out.csv)
+
+**Region:**
+- City or community in LA County
+
+**Timestamp:**
+- Date of newly updated data
+
+**Risk Score Level:**
+- Risk score level calculated from risk score to categorizes how dangerous (level -1-3) an certain LA County based community or city is
+
+**Risk Score:**
+- Risk score = (number of infectious people x 10,000)/population size; number of infectious people predicted by LSTM model; scored based on LA County community or city. Negative scores are considered very low risk.
+
 
 ## Workflow
 ![workflow](https://github.com/skasralikar/Risk-Score-1-UMichZJU/blob/master/Risk-Score-UMich-Workflow.png)
