@@ -1,6 +1,6 @@
 # Risk-Score-1-UMichZJU
 
-#[RMDS Lab](grmds.org)  Risk Score Project (UMichZJU)
+## [RMDS Lab](grmds.org)  Risk Score Project (UMichZJU)
 
 *Shravani Kasralikar, Wanying Shao, Victor Qiu 28/07/2020*
 
