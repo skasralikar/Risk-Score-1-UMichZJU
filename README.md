@@ -25,7 +25,7 @@ Clone this repository from github. Open jupyter notebook by running,
 jupyter notebook
 ```
 
-Navigate to repository within jupyter notebook. Open script: **Data_Sourcing_and Solution.ipynb.** Run script.
+Navigate to cloned repository within jupyter notebook. Navigate to script and open: **scripts/final-script/Data_Sourcing_and Solution.ipynb.** Run script.
 
 **Option 2 (run notebook from command line):**
 
@@ -38,7 +38,7 @@ jupyter nbconvert --execute Data_Sourcing_and_Solution.ipynb
 
 ## Output
 
-**Output file:** [LA_daily_out.csv](https://github.com/skasralikar/Risk-Score-1-UMichZJU/blob/master/data/output/LA_daily_out.csv)
+**Output file:** [LA-daily-out.csv](https://github.com/skasralikar/Risk-Score-1-UMichZJU/blob/master/data/output/LA_daily_out.csv)
 
 **Region:**
 - City or community in LA County
